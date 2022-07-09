@@ -6,10 +6,10 @@ export const environment = {
   production: true,
   firebase: {
     apiKey: '...',
-    authDomain: 'community-open-weather-map.p.rapidapi.com',
-    databaseURL: 'https://community-open-weather-map.p.rapidapi.com/weather',
+    authDomain: 'project.firebaseapp.com',
+    databaseURL: 'https://project.firebaseio.com',
     projectId: 'project',
-    storageBucket: 'community-open-weather-map.p.rapidapi.com',
+    storageBucket: 'project.appspot.com',
     messagingSenderId: '...',
   },
 };
