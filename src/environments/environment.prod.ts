@@ -1,6 +1,7 @@
 // export const environment = {
 //   production: true
 // };
+import { environment as common } from './environment';
 
 export const environment = {
   production: true,
